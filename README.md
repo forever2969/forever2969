@@ -1,4 +1,4 @@
-### Hello, i'm TAEHEON LEE 👋
+### Hello, i'm TAEHEON LEE - Prospective FrontEnd Developer 👋
 
 #### Web Development
 A prospective front-end web developer who grows together will graduate from the computer engineering department of Kumoh National University of Technology.
