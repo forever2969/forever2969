@@ -23,10 +23,8 @@ A prospective front-end web developer who grows together will graduate from the 
 
 🏁 **Projects**
 
-- ⌨️ <a href="https://github.com/Shinjoeo" style="font-size: 0.7em;">신조어 트렌드 파악을 위한 플랫폼, 신조어도감 (FrontEnd)</a><br/>
+- ⌨️ <a href="https://github.com/keupang" style="font-size: 0.7em;">쿠팡을 벤치마킹 한 E-Commerce, Keupang (FrontEnd)</a><br/>
 - 🤝 <a href="https://github.com/98OO" style="font-size: 0.7em;">대학생을 위한 협업 플랫폼, Colla (FrontEnd)</a><br/>
-- 🥬 <a href="https://github.com/React-Likelion" style="font-size: 0.7em;">은퇴자들의 제 2의 삶을 위한 플랫폼, Re:act (FrontEnd)</a><br/>
-- 🗑️ <a href="https://github.com/kumoh-cilab" style="font-size: 0.7em;">연구&개발 자료 정제&제공 플랫폼, R&D Project (FrontEnd)</a><br/>
 - 📍  <a href="https://github.com/polingo-kumoh/polingo-app" style="font-size: 0.7em;">다국어 번역 학습 서비스, Polingo (FrontEnd)</a><br/>
 
 <br/>
