@@ -18,6 +18,7 @@ A prospective front-end web developer who grows together will graduate from the 
 - <a href="https://github.com/LikelionKumoh/FRONT-END/tree/LeeTaeHeon" style="font-size: 0.7em; color: inherit;">LIKELION 10th FrontEnd 아기사자 (22.03.20 ~ 22.12.23)</a><br/>
 - <a href="https://github.com/likelionkit11th" style="font-size: 0.7em; color: inherit;">LIKELION 11th FrontEnd 트랙장 (23.03.20 ~ 23.12.23)</a><br/>
 - <a href="https://f-lab.kr/" style="font-size: 0.7em; color: inherit;">F-Lab 1:1 멘토링 프로그램 이수 (24.07.02 ~ 23.11.05)</a><br/>
+- <a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp" style="font-size: 0.7em; color: inherit;">SSAFY 14기 전공 SW반 (25.07.08 ~ ING)</a><br/>
 
 <br/>
 
